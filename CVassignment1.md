@@ -1,11 +1,14 @@
-% Resumé
+% Curriculum Vitae
 % Charlotte Nijland
 % March 2016
+ 
+
+<img src="https://scontent-ams3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12234880_10204865480139212_8845925169026625404_n.jpg?oh=76460b8a12e5bc63554f4d2ccd70639b&oe=5762F252" width="250" height="400" /> 
 
 Curriculum Vitae
 ================
 -----
-<img style="float: right;" src="https://scontent-ams3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12234880_10204865480139212_8845925169026625404_n.jpg?oh=76460b8a12e5bc63554f4d2ccd70639b&oe=5762F252" width="130"> 
+
 ###Personal Information 
 Charlotte Nijland  		       		  
 8th of April, 1994   
