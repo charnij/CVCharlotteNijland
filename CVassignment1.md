@@ -75,8 +75,8 @@ charlottenijland@gmail.com
 - Hockey
 
 [Link to part a](http://charnij.github.io/assignment-2/)  
-[Link to part a with mathjax](file:///C:/githubass2/assignment-2/mathMathJax.html)  
-[Link to part b](file:///C:/githubass2/assignment-2/presentation.html)
+[Link to part a with mathjax](http://charnij.github.io/assignment-2/mathMathJax.html)  
+[Link to part b](http://charnij.github.io/assignment-2/presentation.html)
 
 
 
