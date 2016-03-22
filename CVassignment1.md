@@ -74,6 +74,9 @@ charlottenijland@gmail.com
 - Fitness
 - Hockey
 
+[Link to part a](http://charnij.github.io/assignment-2/)  
+[Link to part b](file:///C:/githubass2/assignment-2/presentation.html)
+
 
 
 
